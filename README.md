@@ -1,4 +1,4 @@
-# SalesChamp Test
+# SalesChamp
 
 ## Install
 
@@ -11,6 +11,3 @@ Run `npm start` to start the api.
 ## Requirements
 Node.js > v12
 MongoDB > v4.4.0
-
-
-# SalesChamp
